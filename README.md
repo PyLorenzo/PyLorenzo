@@ -7,8 +7,9 @@ My daily working routine comprise Monte Carlo Markov Chain analyses, Effective F
 - In this github profile I am going to upload the main lines of code I consider interesting to share with the scientific community, together with forks of other's works and similar stuff.
   Please, feel free to contact me whenever you want at either my personal g-mail or my INFN e-mail account: 
   
-  lorenzobaldazzi84@gmail.com,
-  lbaldazz@roma2.infn.it
+  Personal email: lorenzobaldazzi84@gmail.com,
+  Institutional email: lorenzo.baldazzi@students.uniroma2.eu ,
+  INFN email: lbaldazz@roma2.infn.it
 
 
 
