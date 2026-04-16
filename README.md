@@ -5,7 +5,7 @@ More specifically, I try to make a bridge between observations and theory, perfo
 My daily working routine comprise Monte Carlo Markov Chain analyses, Effective Field Theory modeling of the Late-time acceleration of the Universe and cross-correlations of CMB anisotropies with Large Scale Structure tracers (i.e., Integrated Sachs-Wolfe effect).
 
 - In this github profile I am going to upload the main lines of code I consider interesting to share with the scientific community, together with forks of other's works and similar stuff.
-  Please, feel free to contact me whenever you want at either my personal g-mail or my INFN e-mail account: 
+  Please, feel free to contact me whenever you want at either my personal gmail or my INFN e-mail account: 
   
   Personal email: lorenzobaldazzi84@gmail.com,
   Institutional email: lorenzo.baldazzi@students.uniroma2.eu ,
